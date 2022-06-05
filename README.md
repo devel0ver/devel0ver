@@ -1,4 +1,4 @@
-![alt text](/img/about.JPEG)
+![alt text](/img/about.jpg)
 
 ```
         <h1> 
