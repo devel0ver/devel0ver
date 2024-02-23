@@ -1,14 +1,7 @@
 ![alt text](/img/about.jpg)
 
-```
-    
-```
-# Hi there, I'm Shaya 👋
-
-I'm an enthusiastic learner with a passion for technology and community development. Welcome to my GitHub portfolio!
-
 ---
-
+<hr>
 ## 📖 About Me
 
 I'm a Full-Stack Web Developer with a keen interest in building consumer-facing applications. I thrive in environments that embrace collaboration and creativity.
@@ -17,6 +10,7 @@ I'm a Full-Stack Web Developer with a keen interest in building consumer-facing 
 - 🌱 I’m currently learning AWS, Swift, and C++.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything tech-related. I love to discuss and learn together!
+- 😄 Pronouns: HE/HIM/HIS
 
 ## 💻 Technical Skills
 
@@ -32,23 +26,24 @@ I'm a Full-Stack Web Developer with a keen interest in building consumer-facing 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 🚀 Projects
 
 ### PlanIt - Travel Event Application
 Developed a full-stack event planning application with advanced search and filtering.
 - Python, Flask, MySQL
-- 🌟 [View Repository](#)
+- 🌟 [View Repository](https://github.com/devel0ver/Project/tree/master/project1)
 
 ### Postagram - Social Media Platform
 Crafted a social media platform to share posts and comments using Java and Spring.
 - Java, Spring, JavaScript
-- 🌟 [View Repository](#)
+- 🌟 [View Repository](https://github.com/devel0ver/Project/tree/master/project1)
 
 ### ModestCollection - E-Commerce Site
 Implemented an e-commerce site for product listing and management.
 - MongoDB, Express, React, Node.js
-- 🌟 [View Repository](#)
+- 🌟 [View Repository](https://github.com/devel0ver/Project/tree/master/project1)
 
 ## 👨‍💼 Experience
 
@@ -70,20 +65,10 @@ August 2017 - September 2023
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaya-blue)](https://www.linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-deveL0ver-lightgrey)](https://github.com/your-github)
-[![Instagram](https://img.shields.io/badge/Instagram-%405h48l-orange)](https://instagram.com/your-instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaya-blue)](https://www.linkedin.com/in/shaya-ahmed/)
+[![GitHub](https://img.shields.io/badge/GitHub-deveL0ver-lightgrey)](https://github.com/devel0ver)
+[![Instagram](https://img.shields.io/badge/Instagram-%405h48l-orange)](https://instagram.com/5h48l)
 
 ---
 
 🎉 Looking forward to connecting and collaborating with you!
-
-
-* 🧑‍💻 I’m currently working on <a href="https://github.com/devel0ver/Project/tree/master/project1">Event Planning</a> using python and flask, <a href="https://github.com/devel0ver/Java/tree/master/Spring/Postagram"> Postagram </a> using Java and spring tool, and <a href="https://github.com/devel0ver/Mern/tree/main/09-Project"> E-commerce </a> using MERN and mongoose.
-* 🌱 I’m currently learning aws, swift, c++ etc...
-* 👯 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 Reach out to me on s.ahmed58833@gmail.com
-* 😄 Pronouns: HE/HIM/HIS
-* ⚡ Fun fact: My favorite inspirational quote is “For indeed, with hardship [will be] ease.” My favorite sport is soccer and my favorite team is Real Madrid!
