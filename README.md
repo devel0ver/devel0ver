@@ -1,8 +1,10 @@
 ![alt text](/img/about.jpg)
 
 ---
+<p align="center">
+  <em>👨‍💻 Aspiring Software Engineer | 🛠️ Bridging Tech and Creativity | 🤝 Connecting People Through Technology</em>
+</p>
 <hr>
-
 <h2>📖 About Me</h2>
 
 <p>I'm a Full-Stack Web Developer with a keen interest in building consumer-facing applications. I thrive in environments that embrace collaboration and creativity.</p>
@@ -53,6 +55,20 @@ Crafted a social media platform to share posts and comments using Java and Sprin
 Implemented an e-commerce site for product listing and management.
 - MongoDB, Express, React, Node.js
 - 🌟 [View Repository](https://github.com/devel0ver/Project/tree/master/project1)
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devel0ver&show_icons=true&theme=radical" alt="Shaya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devel0ver&theme=dark" alt="Shaya's GitHub Stats" />
+</p>
+
+## 💹 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devel0ver&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 
 <h2>👨‍💼 Experience</h2>
 
