@@ -36,8 +36,6 @@
 
 <h2>🚀 Projects</h2>
 
-## 🚀 Projects
-
 ### PlanIt - Travel Event Application
 Developed a full-stack event planning application with advanced search and filtering.
 - Python, Flask, MySQL
